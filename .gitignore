@@ -1,0 +1,10 @@
+node_modules/
+.monitor
+Makefile
+.DS_Store
+uploads/
+bin/
+.idea/
+build/
+lib/
+build.zip
