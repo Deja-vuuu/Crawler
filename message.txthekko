@@ -1,0 +1,4 @@
+function (err) {
+  
+    console.log('写入完成');
+}
